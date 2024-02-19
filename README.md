@@ -2,4 +2,10 @@
 
 JNI Layer Security Implementation. JNI层安全实现
 
-Initial development of cpp-file-encryptor.
+## Implementation Details
+This project implements advanced logic for Android security research and reverse engineering.
+
+### Key Features
+- Professional Hook patterns
+- Secure implementation
+- Optimization for performance
